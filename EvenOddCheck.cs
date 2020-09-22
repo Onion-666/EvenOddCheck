@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
 using Microsoft.VisualBasic;
-
-
 class EvenOddCheck
 {
     static void Main()
